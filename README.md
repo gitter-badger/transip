@@ -1,4 +1,5 @@
 # Transip cookbook
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/kabisa-cookbooks/transip?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/transip.svg?style=flat)][transip]
 [![Build Status](http://img.shields.io/travis/kabisa-cookbooks/transip.svg?style=flat)][travis]
